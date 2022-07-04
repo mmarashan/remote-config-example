@@ -1,0 +1,22 @@
+[
+  {
+    "key": "OFFER_TO_ENABLE_NOTIFICATIONS",
+    "title": "MPX-3090 Предложить пользователю включить пуш-уведомления",
+    "value": true
+  },
+  {
+    "key": "GOSUSLUGI_AUTH",
+    "title": "MPX-9587 Вход через Госуслуги",
+    "value": true
+  },
+  {
+    "key": "SOME_STRING",
+    "title": "Какая-то строка",
+    "value": "Значение какой-то строки"
+  },
+  {
+    "key": "SOME_INT",
+    "title": "Какое-то число",
+    "value": 101
+  }
+]
